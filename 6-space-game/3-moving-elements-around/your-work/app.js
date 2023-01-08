@@ -7,7 +7,7 @@ function loadTexture(path) {
     };
   });
 }
-
+#solve
 function createEnemies(ctx, canvas, enemyImg) {
   const MONSTER_TOTAL = 5;
   const MONSTER_WIDTH = MONSTER_TOTAL * 98;
